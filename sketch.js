@@ -8,5 +8,5 @@ function setup() {
 
 function draw() {
   background(220);
-  image(img1, 0, 0, 400, 200);
+  image(img1, 0, 0);
 }
